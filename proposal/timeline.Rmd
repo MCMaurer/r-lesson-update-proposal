@@ -10,6 +10,8 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Reporting framework
 -->
 
+- Addressing lesson needs with CACs and Maintainers during Q1 2023
+- Recruitment and onboarding of paid contributor
 
 ## Technical delivery
 <!--
@@ -17,6 +19,10 @@ Covering the actual delivery of the project this section should provide at least
 
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
+
+- Paid contributor will carry out work during Q2 2023
+- Generate final reports during Q3 2023
+- Lessons through Lab review during Q3?
 
 ## Other aspects
 <!--
@@ -28,3 +34,8 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] UseR!
  - [ ] ISC meetings
 -->
+
+- Announcement Carpentries blog post by Core Team
+- Completion blog post by paid contributor
+- Collaborative talk on updating lessons?
+- Tweets from Carpentries accounts

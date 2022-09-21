@@ -8,6 +8,10 @@ This is where the proposal should be outlined.
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
 
+- Pay one or more contributors to work with CACs, Maintainers, and Core Team to update our core R lessons
+- Go through repository Issues to find existing ideas/suggestions, identify core areas for improvement, and draft a plan for lesson updates
+- Bulk of work will be actually rewriting the lesson to implement these ideas
+
 ## Detail
 <!--
 Go into more detail about the specifics of the project and it delivers against the problem.
@@ -18,3 +22,10 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
+
+- Minor examples include functions that are deprecated or no longer recommended
+- Moderate examples include packages that are no longer maintained or reliable
+- Major examples include entirely new frameworks (tidyverse vs. base R, Quarto vs. RMarkdown)
+- While each R lesson is optimized as part of a certain curriculum, there is also utility in having coverage of R skills across all lessons. A single contributor would have the high-level view to ensure that, say, if Data Carpentry lessons focus on the tidyverse, Software Carpentry lessons focus more on core programming concepts in base R
+- Contributor would provide a plan for each lesson, including justification for major changes, and a high-level overview describing the approach taken for all lessons as a whole
+- Contributor will also outline suggestions for continued updates to prevent lessons from becoming outdated again, including suggestions for CAC involvement

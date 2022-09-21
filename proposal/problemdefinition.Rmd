@@ -11,3 +11,8 @@ It is important to cover:
 -->
 
 
+- Carpentries R lessons are massively popular and highly effective introductory R lessons for a wide range of audiences
+- Maintainers are volunteers who can keep up with smaller fixes but are not well-suited to large updates to lessons
+- As such, many lessons have fallen behind on current packages and approaches, or will soon (Geospatial)
+- Update to one core lesson (R for Ecology) has been successful (Beta pilot, positive feedback from Instructors), but required a signfificant amount of time from a Core Team member, which is not feasible for all other lessons
+- Lesson that have fallen behind are more difficult to maintain, more difficult to teach, and do a poorer job preparing learners to engage with the broader R community

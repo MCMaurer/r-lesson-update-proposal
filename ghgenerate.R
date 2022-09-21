@@ -1,6 +1,6 @@
-proposal<-"Boilerplate ISC Proposal"
-proposal.file<-"isc-proposal.Rmd"
-author<-"Steph Locke"
+proposal<-"Carpentries R Lesson Update Proposal"
+proposal.file<-"r-lesson-update-proposal.Rmd"
+author<-"Michael Culshaw-Maurer"
 
 rmarkdown::render(proposal.file, output_format="html_document",
                   output_dir="out", quiet=TRUE)
